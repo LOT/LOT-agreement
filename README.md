@@ -7,11 +7,11 @@ Under the [License On Transfer (LOT) Agreement](https://github.com/LOT/LOT-agree
 The LOT Network is industry-led and independently-run.  The LOT Network [members](https://github.com/LOT/LOT-agreement/blob/master/Members.md) are geographically and technologically diverse; a list of the members can be found here.  Sophisticated patent licensing counsel representing the governing LOT Users and other companies provided input into the agreement.  The LOT Agreement already covers nearly 300,000 patent assets.
 Please see www.lotnet.com for more information.
 
-**Quick Start / Deployment**
+## Quick Start / Deployment
 
 *DISCLAIMER: The LOT and the supporting materials are available for informational purposes only and are NOT for the purpose of providing legal advice. You should contact a lawyer if you want to get advice with respect to any particular aspect of the LOT agreement. In addition, any comments posted herein don’t necessarily represent the views of the LOT Network or its participants.  Pull requests and identification of issues are encouraged but there is no guarantee that any pull requests or identified issues will be addressed in the LOT agreement.*
 
-**Joining the LOT Network is easy.**
+## Joining the LOT Network is easy.
 
 And no process is necessary after joining.  Simply [download the LOT Agreement](http://www.lotnet.com/userfiles/files/LOT%20Agreement%20%28v1_3-7_7_14%29.pdf), execute it and [upload](http://www.lotnet.com/how-to-join-lotnet/upload-agreement.cfm) it here.
 If you prefer, instead of uploading your executed agreement, you can send the executed agreement by mail or overnight delivery to LOT Network Inc. at 3855 SW 153rd Drive, Beaverton, Oregon 97003 USA (Phone: +1.503.619.522), and we can upload it for you.  
@@ -28,14 +28,14 @@ Intended for specialists.
 
 For any additional questions, please contact the [LOT administrator](http://www.lotnet.com/learn-more/contact.cfm)
 
-**FAQ**
+## FAQ
 
 Please see [FAQs](http://www.lotnet.com/learn-more/faqs.cfm) here
 
-**Issues and Contributing**
+## Issues and Contributing
 
 Have a contribution idea or want to discuss something? Please create an issue here on GitHub. Better yet, feel free to create a pull request if you have an improvement to the LOT Agreement.
 
-**License**
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">LOT Agreement</span> by "License On Transfer Agreement" :copyright: 2013 LOT Network (originally published by Hayes and Schulman) <a xmlns:cc="http://creativecommons.org/ns#" href="www.lotnet.com" property="cc:attributionName" rel="cc:attributionURL"> </a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
