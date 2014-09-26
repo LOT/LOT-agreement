@@ -39,4 +39,5 @@ Have a contribution idea or want to discuss something? Please create an issue he
 Better yet, feel free to create a pull request if you have an improvement to the LOT Agreement.
 
 **License**
-This work is licensed under a Creative Commons Attribution 3.0 Unported License "License On Transfer Agreement" :copyright: 2013 LOT Network (originally published by Hayes and Schulman) used under a Creative Commons Attribution Unported license: http://creativecommons.org/licenses/by/3.0/
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">LOT Agreement</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.lotnet.com" property="cc:attributionName" rel="cc:attributionURL">LOT Network</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
