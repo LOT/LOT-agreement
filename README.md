@@ -34,9 +34,7 @@ Please see [FAQs](http://www.lotnet.com/learn-more/faqs.cfm) here
 
 **Issues and Contributing**
 
-Have a contribution idea or want to discuss something? Please create an issue here on GitHub.
-
-Better yet, feel free to create a pull request if you have an improvement to the LOT Agreement.
+Have a contribution idea or want to discuss something? Please create an issue here on GitHub. Better yet, feel free to create a pull request if you have an improvement to the LOT Agreement.
 
 **License**
 
