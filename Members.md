@@ -1,7 +1,7 @@
 ## Current LOT Member* List:
 
- 	| User | Announcement Date
-:-|:-----|:----------------- 	
+ 	 | User | Announcement Date
+:--|:-----|:----------------- 	
 1. | Asana | 03 June 2014
 2. |	Canon Inc. | 31 January 2014
 3. |	DropBox, Inc. | 31 January 2014
