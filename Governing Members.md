@@ -4,3 +4,4 @@
 4. Pure Storage, Inc.
 5. Red Hat, Inc.
 6. SAP SE
+7. SolarCity, Corp.
