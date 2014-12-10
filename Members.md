@@ -4,7 +4,7 @@
 :--|:-----|:----------------- 	
 1. | Asana | 03 June 2014
 2. |	Canon Inc. | 31 January 2014
-3. |	DropBox, Inc. | 31 January 2014
+3. |	Dropbox, Inc. | 31 January 2014
 4. |	GitHub, Inc. | 28 October 2014
 5. |	Google Inc. | 31 January 2014
 6. |	Khan Academy, Inc. | 2 December 2014
