@@ -20,5 +20,6 @@
 16. |	SAS Institute Inc. | 08 August 2014
 17. |	SolarCity Corporation | 11 November 2014
 18. | Uber Technologies, Inc. | 21 April 2015
+19. | Wikimedia Foundation | 30 June 2015
 
 <br><br>`*` The LOT Agreement refers to a member of the LOT Network as a LOT User. These terms may be used interchangeably on this site. 
