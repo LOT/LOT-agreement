@@ -6,7 +6,7 @@
 2. | Be Labs | 14 July 2015
 3. |	Canon Inc. | 31 January 2014
 4. | Cyclica Inc. | 21 July 2015
-5. |	DropBox, Inc. | 31 January 2014
+5. |	Dropbox, Inc. | 31 January 2014
 6. | Ford Motor Company | February 2015
 7. |	GitHub, Inc. | 28 October 2014
 8. |	Google Inc. | 31 January 2014
