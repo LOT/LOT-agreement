@@ -11,6 +11,7 @@
 7. | Ford Motor Company | February 2015
 8. |	GitHub, Inc. | 28 October 2014
 9. |	Google Inc. | 31 January 2014
+10. | Inductive Automation, LLC | 24 September 2015
 10. | JPMorgan Chase Bank, N.A. | 30 December 2014
 11. |	Khan Academy, Inc. | 2 December 2014
 12. | Mazda Motor Corporation | 24 March 2015
