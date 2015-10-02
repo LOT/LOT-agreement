@@ -27,7 +27,7 @@
 23. | Rocket Matter LLC | 16 December 2014
 24. |	SAP SE | 31 January 2014
 25. |	SAS Institute Inc. | 08 August 2014
-26. | SASSPASS | 02 October 2015
+26. | SAASPASS | 02 October 2015
 27. | SilverEdge Inc. | 22 September 2015
 28. |	SolarCity Corporation | 11 November 2014
 29. | Uber Technologies, Inc. | 21 April 2015
