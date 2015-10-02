@@ -27,9 +27,10 @@
 23. | Rocket Matter LLC | 16 December 2014
 24. |	SAP SE | 31 January 2014
 25. |	SAS Institute Inc. | 08 August 2014
-26. | SilverEdge Inc. | 22 September 2015
-27. |	SolarCity Corporation | 11 November 2014
-28. | Uber Technologies, Inc. | 21 April 2015
-29. | Wikimedia Foundation | 30 June 2015
+26. | SASSPASS | 02 October 2015
+27. | SilverEdge Inc. | 22 September 2015
+28. |	SolarCity Corporation | 11 November 2014
+29. | Uber Technologies, Inc. | 21 April 2015
+30. | Wikimedia Foundation | 30 June 2015
 
 <br><br>`*` The LOT Agreement refers to a member of the LOT Network as a LOT User. These terms may be used interchangeably on this site. 
