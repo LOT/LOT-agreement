@@ -26,11 +26,12 @@
 22. |	Red Hat Inc. | 02 September 2014
 23. | Rocket Matter LLC | 16 December 2014
 24. | SAASPASS | 02 October 2015
-25. |	SAP SE | 31 January 2014
-26. |	SAS Institute Inc. | 08 August 2014
-27. | SilverEdge Inc. | 22 September 2015
-28. |	SolarCity Corporation | 11 November 2014
-29. | Uber Technologies, Inc. | 21 April 2015
-30. | Wikimedia Foundation | 30 June 2015
+25. | Sabai Technology LLC | 07 October 2015
+26. |	SAP SE | 31 January 2014
+27. |	SAS Institute Inc. | 08 August 2014
+28. | SilverEdge Inc. | 22 September 2015
+29. |	SolarCity Corporation | 11 November 2014
+30. | Uber Technologies, Inc. | 21 April 2015
+31. | Wikimedia Foundation | 30 June 2015
 
 <br><br>`*` The LOT Agreement refers to a member of the LOT Network as a LOT User. These terms may be used interchangeably on this site. 
