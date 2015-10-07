@@ -25,9 +25,9 @@
 21. |	Pure Storage Inc. | 09 July 2014
 22. |	Red Hat Inc. | 02 September 2014
 23. | Rocket Matter LLC | 16 December 2014
-24. |	SAP SE | 31 January 2014
-25. |	SAS Institute Inc. | 08 August 2014
-26. | SAASPASS | 02 October 2015
+24. | SAASPASS | 02 October 2015
+25. |	SAP SE | 31 January 2014
+26. |	SAS Institute Inc. | 08 August 2014
 27. | SilverEdge Inc. | 22 September 2015
 28. |	SolarCity Corporation | 11 November 2014
 29. | Uber Technologies, Inc. | 21 April 2015
