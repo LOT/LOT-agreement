@@ -31,8 +31,9 @@
 27. |	SAP SE | 31 January 2014
 28. |	SAS Institute Inc. | 08 August 2014
 29. | SilverEdge Inc. | 22 September 2015
-30. |	SolarCity Corporation | 11 November 2014
-31. | Uber Technologies, Inc. | 21 April 2015
-32. | Wikimedia Foundation | 30 June 2015
+30. | Sipree, Inc. | 09 October 2015
+31. |	SolarCity Corporation | 11 November 2014
+32. | Uber Technologies, Inc. | 21 April 2015
+33. | Wikimedia Foundation | 30 June 2015
 
 <br><br>`*` The LOT Agreement refers to a member of the LOT Network as a LOT User. These terms may be used interchangeably on this site. 
