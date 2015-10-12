@@ -15,7 +15,7 @@
 11. | Edyt Inc. | 25 September 2015
 12. | Enplug, Inc. | 22 September 2015
 13. | EPHE Corp. | 12 October 2015
-14. | Ford Motor Company | February 2015
+14. | Ford Motor Company | 17 February 2015
 15. |	GitHub, Inc. | 28 October 2014
 16. |	Google Inc. | 31 January 2014
 17. | Inductive Automation, LLC | 24 September 2015
