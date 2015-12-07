@@ -13,7 +13,7 @@ Please see www.lotnet.com for more information.
 
 ## Joining the LOT Network is easy.
 
-And no process is necessary after joining.  Simply [download the LOT Agreement](http://www.lotnet.com/userfiles/files/LOT%20Agreement%20%28v1_3-7_7_14%29.pdf), execute it and [upload](http://www.lotnet.com/how-to-join-lotnet/upload-agreement.cfm) it here.
+And no process is necessary after joining.  Simply [download the LOT Agreement](http://www.lotnet.com/userfiles/files/agreements/LOT%20Agreement%20(v2_0-11_24_15).pdf), execute it and [upload](http://www.lotnet.com/how-to-join-lotnet/upload-agreement.cfm) it here.
 If you prefer, instead of uploading your executed agreement, you can send the executed agreement by mail or overnight delivery to LOT Network Inc. at 3855 SW 153rd Drive, Beaverton, Oregon 97003 USA (Phone: +1.503.619.5222), and we can upload it for you.  
 
 There is a modest administrative fee used to support the administrative operations that enable LOT Network to grow and provide even greater value to all participants. If the fee is preventing your company from joining where it otherwise would, please contact the LOT Administrator to discuss your concern.
