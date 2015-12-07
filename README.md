@@ -20,12 +20,6 @@ There is a modest administrative fee used to support the administrative operatio
 
 There is no confidentiality obligation associated with joining the LOT Network.
 
-If you are interested in learning more about joining the LOT Network, please feel free to review the following resources:  
-* LOT Network High Level Summary
-Intended for generalists.
-* LOT Network Overview
-Intended for specialists.
-
 For any additional questions, please contact the [LOT administrator](http://www.lotnet.com/learn-more/contact.cfm)
 
 ## FAQ
