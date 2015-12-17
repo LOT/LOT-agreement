@@ -20,7 +20,7 @@
 16. | Emdalo Technologies Ltd. | 19 October 2015
 17. | Enplug, Inc. | 22 September 2015
 18. | EPHE Corp. | 12 October 2015
-19. | FieldStack, LLC | 16 December 2015
+19. | FieldStack | 16 December 2015
 20. | Ford Motor Company | 17 February 2015
 21. |	GitHub, Inc. | 28 October 2014
 22. |	Google Inc. | 31 January 2014
