@@ -46,9 +46,10 @@
 42. |	SAS Institute Inc. | 08 August 2014
 43. | SilverEdge Inc. | 22 September 2015
 44. | Sipree, Inc. | 09 October 2015
-45. |	SolarCity Corporation | 11 November 2014
-46. | Theralytics, LLC | 21 October 2015
-47. | Uber Technologies, Inc. | 21 April 2015
-48. | Wikimedia Foundation | 30 June 2015
+45. | Snipp Interactive Inc. | 18 December 2015
+46. |	SolarCity Corporation | 11 November 2014
+47. | Theralytics, LLC | 21 October 2015
+48. | Uber Technologies, Inc. | 21 April 2015
+49. | Wikimedia Foundation | 30 June 2015
 
 <br><br>`*` The LOT Agreement refers to a member of the LOT Network as a LOT User. These terms may be used interchangeably on this site. 
