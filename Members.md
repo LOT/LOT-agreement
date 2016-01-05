@@ -22,35 +22,38 @@
 18. | EPHE Corp. | 12 October 2015
 19. | FieldStack | 16 December 2015
 20. | Ford Motor Company | 17 February 2015
-21. |	GitHub, Inc. | 28 October 2014
-22. |	Google Inc. | 31 January 2014
-23. | Great Wave Tech. | 26 October 2015
-24. | HLCA Media Inc. | 20 October 2015
-25. | Indri, LLC | 23 October 2015
-26. | Inductive Automation, LLC | 24 September 2015
-27. | JPMorgan Chase Bank, N.A. | 30 December 2014
-28. | Kairos AR Inc. | 12 October 2015
-29. |	Khan Academy, Inc. | 2 December 2014
-30. | MarineTraffic | 20 October 2015
-31. | Mazda Motor Corporation | 24 March 2015
-32. | Naehas, Inc. | 21 October 2015
-33. |	Newegg Inc. | 17 June 2014
-34. | Pandora Media, Inc. | 16 December 2014 
-35. | Problem Solutions | 29 December 2015
-36. |	Pure Storage Inc. | 09 July 2014
-37. |	Red Hat Inc. | 02 September 2014
-38. | Ring Partner Inc. | 20 October 2015
-39. | Rocket Matter LLC | 16 December 2014
-40. | SAASPASS | 02 October 2015
-41. | Sabai Technology LLC | 07 October 2015
-42. |	SAP SE | 31 January 2014
-43. |	SAS Institute Inc. | 08 August 2014
-44. | SilverEdge Inc. | 22 September 2015
-45. | Sipree, Inc. | 09 October 2015
-46. | Snipp Interactive Inc. | 18 December 2015
-47. |	SolarCity Corporation | 11 November 2014
-48. | Theralytics, LLC | 21 October 2015
-49. | Uber Technologies, Inc. | 21 April 2015
-50. | Wikimedia Foundation | 30 June 2015
+21. | FuturePlus Systems Corporation | 4 January 2016
+22. |	GitHub, Inc. | 28 October 2014
+23. |	Google Inc. | 31 January 2014
+24. | Great Wave Tech. | 26 October 2015
+25. | HLCA Media Inc. | 20 October 2015
+26. | Hyundai Motor Company | 1 January 2016
+27. | Indri, LLC | 23 October 2015
+28. | Inductive Automation, LLC | 24 September 2015
+29. | JPMorgan Chase Bank, N.A. | 30 December 2014
+30. | Kairos AR Inc. | 12 October 2015
+31. |	Khan Academy, Inc. | 2 December 2014
+32. | Kia Motor Company | 1 January 2016
+33. | MarineTraffic | 20 October 2015
+34. | Mazda Motor Corporation | 24 March 2015
+35. | Naehas, Inc. | 21 October 2015
+36. |	Newegg Inc. | 17 June 2014
+37. | Pandora Media, Inc. | 16 December 2014 
+38. | Problem Solutions | 29 December 2015
+39. |	Pure Storage Inc. | 09 July 2014
+40. |	Red Hat Inc. | 02 September 2014
+41. | Ring Partner Inc. | 20 October 2015
+42. | Rocket Matter LLC | 16 December 2014
+43. | SAASPASS | 02 October 2015
+44. | Sabai Technology LLC | 07 October 2015
+45. |	SAP SE | 31 January 2014
+46. |	SAS Institute Inc. | 08 August 2014
+47. | SilverEdge Inc. | 22 September 2015
+48. | Sipree, Inc. | 09 October 2015
+49. | Snipp Interactive Inc. | 18 December 2015
+50. |	SolarCity Corporation | 11 November 2014
+51. | Theralytics, LLC | 21 October 2015
+52. | Uber Technologies, Inc. | 21 April 2015
+53. | Wikimedia Foundation | 30 June 2015
 
 <br><br>`*` The LOT Agreement refers to a member of the LOT Network as a LOT User. These terms may be used interchangeably on this site. 
