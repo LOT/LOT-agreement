@@ -40,21 +40,22 @@
 36. | Naehas, Inc. | 21 October 2015
 37. |	Newegg Inc. | 17 June 2014
 38. | Pandora Media, Inc. | 16 December 2014 
-39. | Problem Solutions | 29 December 2015
-40. |	Pure Storage Inc. | 09 July 2014
-41. |	Red Hat Inc. | 02 September 2014
-42. | Ring Partner Inc. | 20 October 2015
-43. | Rocket Matter LLC | 16 December 2014
-44. | SAASPASS | 02 October 2015
-45. | Sabai Technology LLC | 07 October 2015
-46. |	SAP SE | 31 January 2014
-47. |	SAS Institute Inc. | 08 August 2014
-48. | SilverEdge Inc. | 22 September 2015
-49. | Sipree, Inc. | 09 October 2015
-50. | Snipp Interactive Inc. | 18 December 2015
-51. |	SolarCity Corporation | 11 November 2014
-52. | Theralytics, LLC | 21 October 2015
-53. | Uber Technologies, Inc. | 21 April 2015
-54. | Wikimedia Foundation | 30 June 2015
+39. | PCS LTD. | 1 February 2016
+40. | Problem Solutions | 29 December 2015
+41. |	Pure Storage Inc. | 09 July 2014
+42. |	Red Hat Inc. | 02 September 2014
+43. | Ring Partner Inc. | 20 October 2015
+44. | Rocket Matter LLC | 16 December 2014
+45. | SAASPASS | 02 October 2015
+46. | Sabai Technology LLC | 07 October 2015
+47. |	SAP SE | 31 January 2014
+48. |	SAS Institute Inc. | 08 August 2014
+49. | SilverEdge Inc. | 22 September 2015
+50. | Sipree, Inc. | 09 October 2015
+51. | Snipp Interactive Inc. | 18 December 2015
+52. |	SolarCity Corporation | 11 November 2014
+53. | Theralytics, LLC | 21 October 2015
+54. | Uber Technologies, Inc. | 21 April 2015
+55. | Wikimedia Foundation | 30 June 2015
 
 <br><br>`*` The LOT Agreement refers to a member of the LOT Network as a LOT User. These terms may be used interchangeably on this site. 
